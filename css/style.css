@@ -26,3 +26,30 @@ ul li:hover{
   color: #ffffff;
   
 }
+
+.body-container {
+
+}
+
+.body-class-1 {
+
+}
+
+.footer {
+  position: static;
+  padding-top: 5px;
+  padding-right: 25px;
+  padding-bottom: 5px;
+  padding-left: 25px;
+  margin-top: 50px;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  max-width: 100%;
+  font-style: normal;
+  font-size: .73333rem;
+  color: #000;
+  line-height: 1.06667rem;
+  font-family: "Geometric Regular",sans-serif;
+  font-weight: 200;
+}
