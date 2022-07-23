@@ -1,0 +1,28 @@
+*{transition:all 0.3s ease-in-out;}
+
+.header-container{
+  clear:both;
+  overflow:auto;
+  background: #002d72;
+}
+
+nav{float:right;}
+
+.logo img{float:left;}
+
+ul li{
+  display: inline-block; 
+  padding:10px;
+  font-family:  quadon, serif;
+  font-weight:  500;
+  font-size: 16px; 
+  font: helvetica;
+  color: #ffffff;
+  list-style: 1;
+}
+
+
+ul li:hover{
+  color: #ffffff;
+  
+}
